@@ -1,6 +1,6 @@
-#include <iostream>
-#include <cctype>
-#include <cstring>
+#include <stdio.h>
+#include <cctype>//per isdigit();
+#include <cstring>//per strlen();
 #include "prototipi.h"
 using namespace std;
 int main() {
